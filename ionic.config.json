@@ -1,0 +1,7 @@
+{
+  "name": "Clasificacion Ligas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
